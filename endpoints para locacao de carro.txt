@@ -1,0 +1,11 @@
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Disciplina de Programação Web 
+Dev: RENAN OLIVEIRA MATOS 
+23/05/2023
+
+
+GET /api/rentals: Recuperar a lista de locações de carros
+POST /api/rentals: Criar uma nova locação de carro
+GET /api/rentals/{rental_id}: Recuperar informações de uma locação específica por ID
+PUT /api/rentals/{rental_id}: Atualizar informações de uma locação específica por ID
+DELETE /api/rentals/{rental_id}: Cancelar uma locação específica por ID
